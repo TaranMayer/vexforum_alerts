@@ -290,7 +290,7 @@ class start_scrape(Thread):
                         mycursor = mydb.cursor(buffered=True)  #
                         ########################################
 
-                Time.sleep(10)
+                Time.sleep(30)
             except:
                 print("An unknown error occured in the scraping process")
 start_scrape()
