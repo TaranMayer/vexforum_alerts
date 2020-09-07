@@ -4,6 +4,9 @@ A bot that scrapes the VEX Forum RSS feed and posts to Discord
 Here is its discord invite link:
 https://discord.com/api/oauth2/authorize?client_id=734105856416808970&permissions=67632192&scope=bot
 
+And here is its home serverL
+https://discord.gg/gb49ZHd
+
 Feel free to look around in the scripts to see how it works. 
 Whenever it sees a new post, it saves it in a SQL database, then posts it on discord like this:
 
